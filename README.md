@@ -1,15 +1,5 @@
-# 🚀 Welcome to your new awesome project!
+# Display weather for the day
 
-This project has been created using **webpack-cli**, you can now run
+Select your Country (also State if from US) and City to get the weather for the current day.
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+openweather API is used for all data sourcing
